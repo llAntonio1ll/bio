@@ -1,1 +1,42 @@
-t
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #40a0cc;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #e03b5e;
+	text-align: center;
+}
+
+p {
+	line-height: 36px;
+	padding-top: 30px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.logophoto {
+	width: 100%;
+	padding-top: 10px;
+}
+
+.bodyphoto {
+	width: 100%;
+	margin-left: 118px;
+}
+
+.adjusted {
+	width: 56.4%;
+	/*width: 100%;*/
+}
+
+.endphoto {
+	width: 100%;
+}
+
+.taco {
+	margin-left: 80px;
+}
